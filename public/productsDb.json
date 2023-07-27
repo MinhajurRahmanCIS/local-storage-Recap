@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "64c285de7fe051feecf211e1",
+    "picture": "http://placehold.it/32x32",
+    "name": "Laptop Asus Rog",
+    "price": 50000
+  },
+  {
+    "_id": "64c285de79b57971f88d4f16",
+    "picture": "http://placehold.it/32x32",
+    "name": "Laptop Dell",
+    "price": 60000
+  },
+  {
+    "_id": "64c285de8abdd67bc9b6dcae",
+    "picture": "http://placehold.it/32x32",
+    "name": "Dell Predator",
+    "price": 99000
+  },
+  {
+    "_id": "64c285de475fb80dcbb07789",
+    "picture": "http://placehold.it/32x32",
+    "name": "Leola Owen",
+    "price": 50000
+  },
+  {
+    "_id": "64c285de278ffd389c0abd04",
+    "picture": "http://placehold.it/32x32",
+    "name": "Hp Pavilion",
+    "price": 66000
+  },
+  {
+    "_id": "64c285de14164f0bc0362591",
+    "picture": "http://placehold.it/32x32",
+    "name": "Mi Notebook",
+    "price": 87000
+  }
+]

@@ -1,0 +1,12 @@
+.product {
+    background-color: rgba(128, 128, 128, 0.171);
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+
+.product img {
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
